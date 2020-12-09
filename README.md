@@ -1,10 +1,10 @@
 # CodeIgniter 3 Room Library
 
-Shape is library to help you make a views easily, Shape is a view that rendered before called by other Shape / View
+Room is library to help you make a layout for views easily, Room is similiar with Layout Views in Codeigniter 4
 
 How to install this Library 
 - Download this project
-- Move Shape.php to your-codeigniter-project-folder/application/library
+- Move Room.php to your-codeigniter-project-folder/application/library
 - Open your-codeigniter-project-folder/application/config/autoload.php
 - Add 'room' to $autoload['libraries']
 - Then you can use the Room !
