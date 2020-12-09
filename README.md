@@ -103,7 +103,7 @@ content.html
 ```
 
 
-### Todos
+# Todos
 
  - More efficient & effective code
  - Data conditional rendering
@@ -115,7 +115,7 @@ License
 MIT
 
 
-### Don't hesitate to contact me if you need help
+# Don't hesitate to contact me if you need help
 Email : ichsann.saidd@gmail.com
 
 Instagram : said_nrs
