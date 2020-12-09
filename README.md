@@ -107,7 +107,6 @@ content.html
 
  - More efficient & effective code
  - Data conditional rendering
- - 
 
 License
 ----
