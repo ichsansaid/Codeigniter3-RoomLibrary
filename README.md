@@ -58,7 +58,7 @@ if you want to pass a data to View :
 ```sh
 public function index(){
   $data = [
-    'hello': "World"
+    'hello'=> "World"
   ];
   $this->room->load('content', $data);
 }
