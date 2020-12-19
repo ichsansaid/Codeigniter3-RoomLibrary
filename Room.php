@@ -3,9 +3,9 @@
 class DataRoom
 {
 	private $parent;
-	private $list_room_replace;
-	private $list_room_declare;
-	private $list_room_will_replace;
+	private $list_room_replace = [];
+	private $list_room_declare = [];
+	private $list_room_will_replace = [];
 	private $currentRoom;
 	private $data = [];
 	private $CI;
