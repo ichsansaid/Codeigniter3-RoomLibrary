@@ -28,9 +28,7 @@ class DataRoom
 		$this->CI->load->view($url, ['room' => $obj]);
 	}
 
-	public function
-
-	declare($room)
+	public function declare($room)
 	{
 		if (isset($this->list_room_will_replace[$room])) {
 			echo $this->list_room_will_replace[$room];
